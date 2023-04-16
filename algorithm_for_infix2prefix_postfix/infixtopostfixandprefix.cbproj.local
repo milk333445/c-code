@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/04/16 22:29:58.098,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project7PCH1.h</Transaction>
+    <Transaction>2023/04/16 22:29:58.142,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2023/04/16 22:32:03.258,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW4\infix2postfixandprefix.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/04/16 22:32:03.258,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW4\infix2postfixandprefix.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2023/04/16 22:32:03.258,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW4\infix2postfixandprefix.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit6.h</Transaction>
+    <Transaction>2023/04/16 22:32:12.899,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW4\infix2postfixandprefixPCH1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project7PCH1.h</Transaction>
+    <Transaction>2023/04/16 22:32:24.797,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW4\infixtopostfixandprefix.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project7.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
