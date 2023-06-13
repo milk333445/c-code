@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/11 21:06:00.534,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project10PCH1.h</Transaction>
+    <Transaction>2023/06/11 21:06:00.755,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>2023/06/11 21:06:36.007,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW8\sort.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>2023/06/11 21:06:36.007,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW8\sort.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit8.h</Transaction>
+    <Transaction>2023/06/11 21:06:36.007,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW8\sort.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit8.dfm</Transaction>
+    <Transaction>2023/06/11 21:06:41.475,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW8\sortPCH1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project10PCH1.h</Transaction>
+    <Transaction>2023/06/11 21:06:57.332,C:\Users\User\Documents\Embarcadero\Studio\Projects\311707043_郭東輝_HW8\sort10.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project10.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
